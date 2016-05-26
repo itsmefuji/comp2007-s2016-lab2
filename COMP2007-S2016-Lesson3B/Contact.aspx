@@ -15,11 +15,11 @@
                     </div>
                     <div class="panel-body">
                         <address>
-                            <strong>Tom Tsiliopoulos</strong><br>
+                            <strong>Yuji Fujiyama</strong><br>
                             1 Toronto Drive<br>
                             Barrie, ON L9L 1L0<br>
                             <abbr title="Phone">Tel:</abbr>
-                            (705) 555-5555
+                            (705) 123-4567
                         </address>
                     </div>
                 </div>
